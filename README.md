@@ -10,4 +10,5 @@
 - Identity operators: The is operator is used to compare if scores and scores_copy are the same object.
 - Bitwise operators: The & operator is used to perform a bitwise AND operation on the first two scores.
 
-I found this project help with practise the different type of operators and was interesting to see the student's grade would change when the scores average would would change. 
+I found this project helped me practise the different type of operators and it was interesting to see how the student's grade 
+would change depending on the student's score average. 
